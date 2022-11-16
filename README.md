@@ -1,0 +1,3 @@
+# RubiksCubeGround
+
+`./build.sh`
