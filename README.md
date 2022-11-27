@@ -1,3 +1,3 @@
 # RubiksCubeGround
 
-`./build.sh` rf
+`./build.sh rf`
